@@ -1,0 +1,38 @@
+ul{
+    margin-left: 250px;
+}
+nav{
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px
+
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 100px;
+}
+
+body{
+	background-color:darkblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+
+h1{
+    color: darkgoldenrod;
+}
+
+img{
+    width: 200px;
+    margin-left: 850px;
+    margin-top: 200px;
+}
+
+p{
+    color: darkgoldenrod
+}
+label {
+    color: white;    
+}
